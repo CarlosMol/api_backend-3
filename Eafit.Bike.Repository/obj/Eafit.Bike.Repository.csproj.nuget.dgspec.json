@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj": {}
+    "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj": {}
   },
   "projects": {
-    "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj": {
+    "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj",
+        "projectUniqueName": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj",
         "projectName": "Eafit.Bike.Model",
-        "projectPath": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj",
+        "projectPath": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj",
         "packagesPath": "C:\\Users\\wilfrank.montalvop\\.nuget\\packages\\",
-        "outputPath": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Model\\obj\\",
+        "outputPath": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -23,7 +23,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -34,8 +34,8 @@
           "https://nuget.pkg.github.com/safe-fleet/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -46,8 +46,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Google.Cloud.Firestore": {
               "target": "Package",
@@ -78,14 +78,14 @@
         }
       }
     },
-    "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj": {
+    "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj",
+        "projectUniqueName": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj",
         "projectName": "Eafit.Bike.Repository",
-        "projectPath": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj",
+        "projectPath": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Repository\\Eafit.Bike.Repository.csproj",
         "packagesPath": "C:\\Users\\wilfrank.montalvop\\.nuget\\packages\\",
-        "outputPath": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Repository\\obj\\",
+        "outputPath": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -97,7 +97,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -108,11 +108,11 @@
           "https://nuget.pkg.github.com/safe-fleet/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj": {
-                "projectPath": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj"
+              "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj": {
+                "projectPath": "D:\\Eafit\\Especializacion\\Int_Entrega_Continua\\Repository\\red-bike-api\\Red-Bike\\Eafit.Bike.Model\\Eafit.Bike.Model.csproj"
               }
             }
           }
@@ -124,8 +124,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Google.Cloud.Firestore": {
               "target": "Package",
